@@ -1,0 +1,6 @@
+{
+  "name": "Krishna Portfolio",
+  "description": "A high-performance Dark Portfolio Landing Page featuring GSAP animations, Framer Motion, parallax galleries, and HLS streaming backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
